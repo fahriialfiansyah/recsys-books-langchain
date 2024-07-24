@@ -1,5 +1,4 @@
 # Chat with Multiple PDF Using LangChain, Ollama, and Llama3 8B
-Dataset Source: https://www.kaggle.com/datasets/luiscorter/netflix-original-films-imdb-scores
 This project creates recommender system local interfaces for single csv dataset using LangChain, Ollama, and the LLaMA 3 8B model. The repository includes sample csv, notebook, and requirements for interacting with and make a recommendation about movies based on previous watched movie. It uses Python 3.12.4 and [kaggle dataset](https://www.kaggle.com/datasets/luiscorter/netflix-original-films-imdb-scores) as knowledge database.
 
 ## File Information
